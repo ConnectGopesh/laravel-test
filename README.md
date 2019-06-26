@@ -4,7 +4,7 @@ Hotel Booking Test Application
 ___
 ## Local Development Installation
 1. Clone repository to local environment
-    1. __Run:__ git clone https://github.com/ConnectGopesh/laravel-test.git
+    1. __Run:__ git clone https://github.com/ConnectInfosoftTech/laravel-test.git
 2. Install Dependencies via Composer and Npm
     1. __Run:__ composer install
     2. __Run:__ npm install
